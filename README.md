@@ -59,7 +59,6 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-oita.png" width="120px"><p>大分支部 / oita</p></td>
 	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / oita</p></td>
 	<td><img src="thumbs/thumb-area-okinawa.png" width="120px"><p>沖縄支部 / okinawa</p></td>
-	<td></td>
 </tr>
 </table>
 
@@ -83,17 +82,16 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-professional-gov-jaws.png" width="120px"><br />Gov-JAWS</td>
 	<td><img src="thumbs/thumb-professional-education-jaws.png" width="120px"><br />Education-JAWS</td>
 	<td><img src="thumbs/thumb-professional-kansaigirls.png" width="120px"><br />関西女子</td>
-	<td></td>
 </tr>
 </table>
 
 ## イベント
 <table style="text-align:center; line-height:1.3; font-size:0.9; color:#444;">
 <tr>
-	<td><img src="thumbs/thumb-event-sonic_midnight.png" width="120px"><br />JAWS SONIC & Midnight JAWS 2020</td>
-	<td><img src="thumbs/thumb-event-jaws-days-2019.png" width="120px"><br />JAWS DAYS 2019 - 満漢全席</td>
-	<td><img src="thumbs/thumb-event-jaws-days-2020.png" width="120px"><br />JAWS DAYS 2020 - さめのおんがえし</td>
-	<td><img src="thumbs/thumb-event-jaws-days-2021.png" width="120px"><br />JAWS DAYS 2021 - re:Connect</td>
+	<td><img src="thumbs/thumb-event-sonic_midnight.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
+	<td><img src="thumbs/thumb-event-jaws-days-2019.png" width="120px"><br />JAWS DAYS 2019 - <br />満漢全席</td>
+	<td><img src="thumbs/thumb-event-jaws-days-2020.png" width="120px"><br />JAWS DAYS 2020 - <br />さめのおんがえし</td>
+	<td><img src="thumbs/thumb-event-jaws-days-2021.png" width="120px"><br />JAWS DAYS 2021 - <br />re:Connect</td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-event-jaws-days-2022.png" width="120px"><br />JAWS DAYS 2021 - Satellites</td>
