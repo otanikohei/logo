@@ -51,14 +51,20 @@ JAWS-UG各支部のロゴです。
 <tr>
 	<td><img src="thumbs/thumb-area-osaka.png" width="120px"><p>大阪支部 / osaka</p></td>
 	<td><img src="thumbs/thumb-area-kobe.png" width="120px"><p>神戸支部 / kobe</p></td>
+	<td><img src="thumbs/thumb-area-kyoto.png" width="120px"><p>神戸支部 / kobe</p></td>
 	<td><img src="thumbs/thumb-area-okayama.png" width="120px"><p>岡山支部 / okayama</p></td>
-	<td><img src="thumbs/thumb-area-hiroshima.png" width="120px"><p>広島支部 / hiroshima</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-hiroshima.png" width="120px"><p>広島支部 / hiroshima</p></td>
 	<td><img src="thumbs/thumb-area-fukuoka.png" width="120px"><p>福岡支部 / fukuoka</p></td>
 	<td><img src="thumbs/thumb-area-oita.png" width="120px"><p>大分支部 / oita</p></td>
 	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / oita</p></td>
+</tr>
+<tr>
 	<td><img src="thumbs/thumb-area-okinawa.png" width="120px"><p>沖縄支部 / okinawa</p></td>
+	<td></td>
+	<td></td>
+	<td></td>
 </tr>
 </table>
 
@@ -82,6 +88,9 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-professional-gov-jaws.png" width="120px"><br />Gov-JAWS</td>
 	<td><img src="thumbs/thumb-professional-education-jaws.png" width="120px"><br />Education-JAWS</td>
 	<td><img src="thumbs/thumb-professional-kansaigirls.png" width="120px"><br />関西女子</td>
+</tr>
+<tr>
+	<td><img src="thumbs/thumb-professional-cloud-girls.png" width="120px"><br />クラウド女子会</td>
 </tr>
 </table>
 
