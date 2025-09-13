@@ -31,38 +31,38 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-aomori2.png" width="120px"><p>青森支部 / aomori</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-aizu.png" width="120px"><p>会津支部 / aizu</p></td>
 	<td><img src="thumbs/thumb-area-sainokuni.png" width="120px"><p>彩の国埼玉支部 / sainokuni</p></td>
 	<td><img src="thumbs/thumb-area-ibaraki.png" width="120px"><p>茨城支部 / ibaraki</p></td>
 	<td><img src="thumbs/thumb-area-gunma.png" width="120px"><p>群馬支部 / gunma</p></td>
-	<td><img src="thumbs/thumb-area-chiba.png" width="120px"><p>千葉支部 / chiba</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-chiba.png" width="120px"><p>千葉支部 / chiba</p></td>
 	<td><img src="thumbs/thumb-area-yokohama.png" width="120px"><p>横浜支部 / yokohama</p></td>
 	<td><img src="thumbs/thumb-area-niigata.png" width="120px"><p>新潟支部 / niigata</p></td>
 	<td><img src="thumbs/thumb-area-toyama.png" width="120px"><p>富山支部 / toyama</p></td>
-	<td><img src="thumbs/thumb-area-kanazawa.png" width="120px"><p>金沢支部 / kanazawa</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-kanazawa.png" width="120px"><p>金沢支部 / kanazawa</p></td>
 	<td><img src="thumbs/thumb-area-yamanashi.png" width="120px"><p>山梨支部 / yamanashi</p></td>
 	<td><img src="thumbs/thumb-area-nagano.png" width="120px"><p>長野支部 / nagano</p></td>
 	<td><img src="thumbs/thumb-area-hamamatsu.png" width="120px"><p>浜松支部 / hamamatsu</p></td>
-	<td><img src="thumbs/thumb-area-tokaido.png" width="120px"><p>名古屋支部 / nagoya</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-tokaido.png" width="120px"><p>名古屋支部 / nagoya</p></td>
 	<td><img src="thumbs/thumb-area-osaka.png" width="120px"><p>大阪支部 / osaka</p></td>
 	<td><img src="thumbs/thumb-area-kobe.png" width="120px"><p>神戸支部 / kobe</p></td>
 	<td><img src="thumbs/thumb-area-kyoto.png" width="120px"><p>神戸支部 / kobe</p></td>
-	<td><img src="thumbs/thumb-area-okayama.png" width="120px"><p>岡山支部 / okayama</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-okayama.png" width="120px"><p>岡山支部 / okayama</p></td>
 	<td><img src="thumbs/thumb-area-hiroshima.png" width="120px"><p>広島支部 / hiroshima</p></td>
 	<td><img src="thumbs/thumb-area-fukuoka.png" width="120px"><p>福岡支部 / fukuoka</p></td>
 	<td><img src="thumbs/thumb-area-oita.png" width="120px"><p>大分支部 / oita</p></td>
-	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / oita</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / oita</p></td>
 	<td><img src="thumbs/thumb-area-okinawa.png" width="120px"><p>沖縄支部 / okinawa</p></td>
-	<td></td>
 	<td></td>
 	<td></td>
 </tr>
