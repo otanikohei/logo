@@ -57,7 +57,7 @@ JAWS-UG各支部のロゴです。
 <tr>
 	<td><img src="thumbs/thumb-area-osaka.png" width="120px"><p>大阪支部 / osaka</p></td>
 	<td><img src="thumbs/thumb-area-kobe.png" width="120px"><p>神戸支部 / kobe</p></td>
-	<td><img src="thumbs/thumb-area-kyoto.png" width="120px"><p>神戸支部 / kobe</p></td>
+	<td><img src="thumbs/thumb-area-kyoto.png" width="120px"><p>京都支部 / kyoto</p></td>
 	<td><img src="thumbs/thumb-area-okayama.png" width="120px"><p>岡山支部 / okayama</p></td>
 </tr>
 <tr>
