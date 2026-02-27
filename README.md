@@ -69,7 +69,7 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / saga</p></td>
 	<td><img src="thumbs/thumb-area-oita.png" width="120px"><p>大分支部 / oita</p></td>
 </tr>
-<td>
+<tr>
 	<td><img src="thumbs/thumb-area-okinawa.png" width="120px"><p>沖縄支部 / okinawa</p></td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
