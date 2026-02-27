@@ -49,7 +49,6 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-hamamatsu.png" width="120px"><p>浜松支部 / hamamatsu</p></td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-area-tokaido.png" width="120px"><p>JAWS-UG 東海道 / tokaido</p></td>
 	<td><img src="thumbs/thumb-area-osaka.png" width="120px"><p>大阪支部 / osaka</p></td>
 	<td><img src="thumbs/thumb-area-kobe.png" width="120px"><p>神戸支部 / kobe</p></td>
 	<td><img src="thumbs/thumb-area-kyoto.png" width="120px"><p>神戸支部 / kobe</p></td>
