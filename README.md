@@ -49,6 +49,9 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-nagano.png" width="120px"><p>長野支部 / nagano</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-yamanashi.png" width="120px"><p>山梨支部 / yamanashi</p></td>
+</tr>
+<tr>
 	<td><img src="thumbs/thumb-area-shizuoka.png" width="120px"><p>静岡支部 / shizuoka</p></td>
 	<td><img src="thumbs/thumb-area-hamamatsu.png" width="120px"><p>浜松支部 / hamamatsu</p></td>
 	<td><img src="thumbs/thumb-area-nagoya.png" width="120px"><p>JAWS-UG 名古屋 / nagoya</p></td>
