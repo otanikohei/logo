@@ -102,6 +102,7 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-professional-cloud-girls.png" width="120px"><br />クラウド女子会</td>
 	<td><img src="thumbs/thumb-professional-nwjaws.png" width="120px"><br />NW-JAWS</td>
 	<td><img src="thumbs/thumb-professional-secjaws.png" width="120px"><br />Security-JAWS</td>
+	<td><img src="thumbs/thumb-professional-sales.png" width="120px"><br />Sales</td>
 </tr>
 </table>
 
