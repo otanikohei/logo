@@ -101,6 +101,8 @@ JAWS-UG各支部のロゴです。
 <tr>
 	<td><img src="thumbs/thumb-professional-cloud-girls.png" width="120px"><br />クラウド女子会</td>
 	<td><img src="thumbs/thumb-professional-nwjaws.png" width="120px"><br />NW-JAWS</td>
+	<td><img src="thumbs/thumb-professional-secjaws.png" width="120px"><br />Security-JAWS</td>
+	<td><img src="thumbs/thumb-professional-sales.png" width="120px"><br />Sales</td>
 </tr>
 </table>
 
@@ -108,6 +110,7 @@ JAWS-UG各支部のロゴです。
 <table style="text-align:center; line-height:1.3; font-size:0.9; color:#444;">
 <tr>
 	<td><img src="thumbs/thumb-other-haishinbu.png" width="120px"><br />JAWS-UG 配信部</td>
+	<td><img src="thumbs/thumb-event-security-jaws-iam-special.png" width="120px"><br />Security-JAWS<br /> & <br />IAM Special</td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-event-sonic_midnight.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
