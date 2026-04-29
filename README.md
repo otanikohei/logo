@@ -31,24 +31,27 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-aomori2.png" width="120px"><p>青森支部 / aomori</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-akita.png" width="120px"><p>秋田支部 / akita</p></td>
+	<td><img src="thumbs/thumb-area-iwate.png" width="120px"><p>いわて支部 / iwate</p></td>
+	<td><img src="thumbs/thumb-area-sendai.png" width="120px"><p>仙台支部 / sendai</p></td>
 	<td><img src="thumbs/thumb-area-aizu.png" width="120px"><p>会津支部 / aizu</p></td>
+</tr>
+<tr>
+	<td><img src="thumbs/thumb-area-chiba.png" width="120px"><p>千葉支部 / chiba</p></td>
 	<td><img src="thumbs/thumb-area-sainokuni.png" width="120px"><p>彩の国埼玉支部 / sainokuni</p></td>
 	<td><img src="thumbs/thumb-area-ibaraki.png" width="120px"><p>茨城支部 / ibaraki</p></td>
 	<td><img src="thumbs/thumb-area-gunma.png" width="120px"><p>群馬支部 / gunma</p></td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-area-chiba.png" width="120px"><p>千葉支部 / chiba</p></td>
 	<td><img src="thumbs/thumb-area-yokohama.png" width="120px"><p>横浜支部 / yokohama</p></td>
 	<td><img src="thumbs/thumb-area-niigata.png" width="120px"><p>新潟支部 / niigata</p></td>
 	<td><img src="thumbs/thumb-area-toyama.png" width="120px"><p>富山支部 / toyama</p></td>
+	<td><img src="thumbs/thumb-area-kanazawa.png" width="120px"><p>金沢支部 / kanazawa</p></td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-area-kanazawa.png" width="120px"><p>金沢支部 / kanazawa</p></td>
 	<td><img src="thumbs/thumb-area-fukui.png" width="120px"><p>福井支部 / fukui</p></td>
 	<td><img src="thumbs/thumb-area-yamanashi.png" width="120px"><p>山梨支部 / yamanashi</p></td>
 	<td><img src="thumbs/thumb-area-nagano.png" width="120px"><p>長野支部 / nagano</p></td>
-</tr>
-<tr>
 	<td><img src="thumbs/thumb-area-yamanashi.png" width="120px"><p>山梨支部 / yamanashi</p></td>
 </tr>
 <tr>
