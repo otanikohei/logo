@@ -29,9 +29,12 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-hakodate.png" width="120px"><p>函館支部 / hakodate</p></td>
 	<td><img src="thumbs/thumb-area-tohoku.png" width="120px"><p>東北支部 / tohoku</p></td>
 	<td><img src="thumbs/thumb-area-aomori2.png" width="120px"><p>青森支部 / aomori</p></td>
+	<td><img src="thumbs/thumb-area-akita.png" width="120px"><p>秋田支部 / aomori</p></td>
+	<td><img src="thumbs/thumb-area-iwate.png" width="120px"><p>いわて支部 / aomori</p></td>
+	<td><img src="thumbs/thumb-area-sendai.png" width="120px"><p>仙台支部 / aomori</p></td>
+	<td><img src="thumbs/thumb-area-aizu.png" width="120px"><p>会津支部 / aizu</p></td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-area-aizu.png" width="120px"><p>会津支部 / aizu</p></td>
 	<td><img src="thumbs/thumb-area-sainokuni.png" width="120px"><p>彩の国埼玉支部 / sainokuni</p></td>
 	<td><img src="thumbs/thumb-area-ibaraki.png" width="120px"><p>茨城支部 / ibaraki</p></td>
 	<td><img src="thumbs/thumb-area-gunma.png" width="120px"><p>群馬支部 / gunma</p></td>
