@@ -124,13 +124,20 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-event-jaws-days-2022.png" width="120px"><br />JAWS DAYS 2021 - Satellites</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2024.png" width="120px"><br />JAWS DAYS 2024 - Leap Beyond</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2025.png" width="120px"><br />JAWS DAYS 2025 - Connecting the dots</td>
+	<td><img src="thumbs/thumb-event-jaws-festa-2025.png" width="120px"><br />JAWS FESTA 2025 in 金沢</td>
+</tr>
+<tr>
 	<td><img src="thumbs/thumb-event-sonic_midnight-2026.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2026</td>
+	<td><img src="thumbs/thumb-event-jaws-festa-2026.png" width="120px"><br />JAWS FESTA 2026 AKITA</td>
+	<td></tr>
+	<td></tr>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-event-summertfireworkshop-kanazawa.png" width="120px"><br />Summer FIREWORKShop</td>
 	<td><img src="thumbs/thumb-event-summertfireworkshop-chiba.png" width="120px"><br />Summer FIREWORKShop
+	</td>
 	<td><img src="thumbs/thumb-event-summertfireworkshop-beginner.png" width="120px"><br />Summer FIREWORKShop</td>
-	<td></td>
+	<td></tr>
 </tr>
 </table>
 
