@@ -115,7 +115,7 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-event-security-jaws-iam-special.png" width="120px"><br />Security-JAWS<br /> & <br />IAM Special</td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-event-sonic_midnight.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
+	<td><img src="thumbs/thumb-event-sonic_midnight-2020.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2019.png" width="120px"><br />JAWS DAYS 2019 - <br />満漢全席</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2020.png" width="120px"><br />JAWS DAYS 2020 - <br />さめのおんがえし</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2021.png" width="120px"><br />JAWS DAYS 2021 - <br />re:Connect</td>
@@ -124,7 +124,7 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-event-jaws-days-2022.png" width="120px"><br />JAWS DAYS 2021 - Satellites</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2024.png" width="120px"><br />JAWS DAYS 2024 - Leap Beyond</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2025.png" width="120px"><br />JAWS DAYS 2025 - Connecting the dots</td>
-	<td></td>
+	<td><img src="thumbs/thumb-event-sonic_midnight-2026.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2026</td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-event-summertfireworkshop-kanazawa.png" width="120px"><br />Summer FIREWORKShop</td>
