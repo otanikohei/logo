@@ -107,6 +107,12 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-professional-secjaws.png" width="120px"><br />Security-JAWS</td>
 	<td><img src="thumbs/thumb-professional-sales.png" width="120px"><br />Sales</td>
 </tr>
+<tr>
+  <td><img src="thumbs/thumb-professional-cdk.png" width="120px"><br />CDK支部</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+</tr>
 </table>
 
 ## イベント・その他
@@ -134,7 +140,3 @@ JAWS-UG各支部のロゴです。
 	<td></td>
 </tr>
 </table>
-
-
-
-
