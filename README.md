@@ -70,7 +70,7 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-okayama.png" width="120px"><p>岡山支部 / okayama</p></td>
 	<td><img src="thumbs/thumb-area-hiroshima.png" width="120px"><p>広島支部 / hiroshima</p></td>
 	<td><img src="thumbs/thumb-area-fukuoka.png" width="120px"><p>福岡支部 / fukuoka</p></td>
-	<td><img src="thumbs/thumb-area-nagasaki.png" width="120px"><p>長崎支部 / nagasaki</p></td>
+	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / saga</p></td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-area-kumamoto.png" width="120px"><p>熊本支部 / kumamoto</p></td>
@@ -129,7 +129,7 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-event-security-jaws-iam-special.png" width="120px"><br />Security-JAWS<br /> & <br />IAM Special</td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-event-sonic_midnight.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
+	<td><img src="thumbs/thumb-event-sonic_midnight-2020.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2019.png" width="120px"><br />JAWS DAYS 2019 - <br />満漢全席</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2020.png" width="120px"><br />JAWS DAYS 2020 - <br />さめのおんがえし</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2021.png" width="120px"><br />JAWS DAYS 2021 - <br />re:Connect</td>
@@ -138,11 +138,17 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-event-jaws-days-2022.png" width="120px"><br />JAWS DAYS 2021 - Satellites</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2024.png" width="120px"><br />JAWS DAYS 2024 - Leap Beyond</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2025.png" width="120px"><br />JAWS DAYS 2025 - Connecting the dots</td>
+	<td><img src="thumbs/thumb-event-jaws-festa-2025.png" width="120px"><br />JAWS FESTA 2025 in 金沢</td>
+</tr>
+<tr>
+	<td><img src="thumbs/thumb-event-sonic_midnight-2026.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2026</td>
+	<td><img src="thumbs/thumb-event-jaws-festa-2026.png" width="120px"><br />JAWS FESTA 2026 AKITA</td>
+	<td></td>
 	<td></td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-event-summertfireworkshop-kanazawa.png" width="120px"><br />Summer FIREWORKShop</td>
-	<td><img src="thumbs/thumb-event-summertfireworkshop-chiba.png" width="120px"><br />Summer FIREWORKShop
+	<td><img src="thumbs/thumb-event-summertfireworkshop-chiba.png" width="120px"><br />Summer FIREWORKShop</td>
 	<td><img src="thumbs/thumb-event-summertfireworkshop-beginner.png" width="120px"><br />Summer FIREWORKShop</td>
 	<td></td>
 </tr>
