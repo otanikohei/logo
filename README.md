@@ -111,11 +111,11 @@ JAWS-UG各支部のロゴです。
   <td><img src="thumbs/thumb-professional-cdk.png" width="120px"><br />CDK支部</td>
   <td><img src="thumbs/thumb-professional-ops-jaws.png" width="120px"><br />OPS-JAWS</td>
   <td><img src="thumbs/thumb-professional-container.png" width="120px"><br />コンテナ支部</td>
-  <td><img src="thumbs/thumb-professional-ai-dlc.png" width="120px"><br />AI-DLC</td>
+  <td><img src="thumbs/thumb-professional-morning.png" width="120px"><br />朝会</td>
 </tr>
 <tr>
-  <td><img src="thumbs/thumb-professional-morning.png" width="120px"><br />朝会</td>
   <td><img src="thumbs/thumb-professional-storage-jaws.png" width="120px"><br />Storage-JAWS</td>
+  <td></td>
   <td></td>
   <td></td>
 </tr>
