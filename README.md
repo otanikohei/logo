@@ -119,6 +119,12 @@ JAWS-UG各支部のロゴです。
   <td><img src="thumbs/thumb-professional-container.png" width="120px"><br />コンテナ支部</td>
   <td><img src="thumbs/thumb-professional-storage-jaws.png" width="120px"><br />Storage-JAWS</td>
 </tr>
+<tr>
+  <td><img src="thumbs/thumb-professional-ai-dlc.png" width="120px"><br />AI-DLC</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
 </table>
 
 ## イベント・その他
