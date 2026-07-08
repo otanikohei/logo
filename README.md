@@ -90,79 +90,79 @@ JAWS-UG各支部のロゴです。
 ## 目的別
 <table style="text-align:center; line-height:1.3; font-size:0.9; color:#444;">
 <tr>
-	<td><img src="thumbs/thumb-professional-beginner.png" width="120px"><br />初心者支部</td>
-	<td><img src="thumbs/thumb-professional-cli.png" width="120px"><br />CLI 専門支部</td>
-	<td><img src="thumbs/thumb-professional-HPC.png" width="120px"><br />HPC</td>
-	<td><img src="thumbs/thumb-professional-finjaws.png" width="120px"><br />Fin-JAWS</td>
+	<td><img src="thumbs/thumb-professional-beginner.png" width="120px"><p>初心者支部</p></td>
+	<td><img src="thumbs/thumb-professional-cli.png" width="120px"><p>CLI 専門支部</p></td>
+	<td><img src="thumbs/thumb-professional-HPC.png" width="120px"><p>HPC</p></td>
+	<td><img src="thumbs/thumb-professional-finjaws.png" width="120px"><p>Fin-JAWS</p></td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-professional-iot.png" width="120px"><br />IoT 専門支部</td>
-	<td><img src="thumbs/thumb-professional-gametech.png" width="120px"><br />GameTech 専門支部</td>
-	<td><img src="thumbs/thumb-professional-media.png" width="120px"><br />Media-JAWS</td>
-	<td><img src="thumbs/thumb-professional-E-JAWS.png" width="120px"><br />E-JAWS</td>
+	<td><img src="thumbs/thumb-professional-iot.png" width="120px"><p>IoT 専門支部</p></td>
+	<td><img src="thumbs/thumb-professional-gametech.png" width="120px"><p>GameTech 専門支部</p></td>
+	<td><img src="thumbs/thumb-professional-media.png" width="120px"><p>Media-JAWS</p></td>
+	<td><img src="thumbs/thumb-professional-E-JAWS.png" width="120px"><p>E-JAWS</p></td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-professional-gov-jaws.png" width="120px"><br />Gov-JAWS</td>
-	<td><img src="thumbs/thumb-professional-education-jaws.png" width="120px"><br />Education-JAWS</td>
-	<td><img src="thumbs/thumb-professional-kansaigirls.png" width="120px"><br />関西女子</td>
-  <td><img src="thumbs/thumb-professional-morning.png" width="120px"><br />朝会</td>
+	<td><img src="thumbs/thumb-professional-gov-jaws.png" width="120px"><p>Gov-JAWS</p></td>
+	<td><img src="thumbs/thumb-professional-education-jaws.png" width="120px"><p>Education-JAWS</p></td>
+	<td><img src="thumbs/thumb-professional-kansaigirls.png" width="120px"><p>関西女子</p></td>
+	<td><img src="thumbs/thumb-professional-morning.png" width="120px"><p>朝会</p></td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-professional-cloud-girls.png" width="120px"><br />クラウド女子会</td>
-	<td><img src="thumbs/thumb-professional-nwjaws.png" width="120px"><br />NW-JAWS</td>
-	<td><img src="thumbs/thumb-professional-secjaws.png" width="120px"><br />Security-JAWS</td>
-	<td><img src="thumbs/thumb-professional-sales.png" width="120px"><br />Sales</td>
+	<td><img src="thumbs/thumb-professional-cloud-girls.png" width="120px"><p>クラウド女子会</p></td>
+	<td><img src="thumbs/thumb-professional-nwjaws.png" width="120px"><p>NW-JAWS</p></td>
+	<td><img src="thumbs/thumb-professional-secjaws.png" width="120px"><p>Security-JAWS</p></td>
+	<td><img src="thumbs/thumb-professional-sales.png" width="120px"><p>Sales</p></td>
 </tr>
 <tr>
-  <td><img src="thumbs/thumb-professional-cdk.png" width="120px"><br />CDK支部</td>
-  <td><img src="thumbs/thumb-professional-ops-jaws.png" width="120px"><br />OPS-JAWS</td>
-  <td><img src="thumbs/thumb-professional-container.png" width="120px"><br />コンテナ支部</td>
-  <td><img src="thumbs/thumb-professional-storage-jaws.png" width="120px"><br />Storage-JAWS</td>
+	<td><img src="thumbs/thumb-professional-cdk.png" width="120px"><p>CDK支部</p></td>
+	<td><img src="thumbs/thumb-professional-ops-jaws.png" width="120px"><p>OPS-JAWS</p></td>
+	<td><img src="thumbs/thumb-professional-container.png" width="120px"><p>コンテナ支部</p></td>
+	<td><img src="thumbs/thumb-professional-storage-jaws.png" width="120px"><p>Storage-JAWS</p></td>
 </tr>
 <tr>
-  <td><img src="thumbs/thumb-professional-ai-dlc.png" width="120px"><br />AI-DLC</td>
-  <td></td>
-  <td></td>
-  <td></td>
+	<td><img src="thumbs/thumb-professional-ai-dlc.png" width="120px"><p>AI-DLC</p></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 </tr>
 </table>
 
 ## イベント・その他
 <table style="text-align:center; line-height:1.3; font-size:0.9; color:#444;">
 <tr>
-	<td><img src="thumbs/thumb-event-security-jaws-iam-special.png" width="120px"><br />Security-JAWS<br /> & <br />IAM Special</td>
-	<td><img src="thumbs/thumb-event-security-jaws-days-2026.png" width="120px"><br />Security-JAWS DAYS</td>
-	<td></td>
-	<td></td>
+	<td><img src="thumbs/thumb-event-security-jaws-iam-special.png" width="120px"><p>Security-JAWS & IAM Special</p></td>
+	<td><img src="thumbs/thumb-event-security-jaws-days-2026.png" width="120px"><p>Security-JAWS DAYS</p></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-other-haishinbu.png" width="120px"><br />JAWS-UG 配信部</td>
-	<td><img src="thumbs/thumb-event-sonic_midnight-2020.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
-	<td><img src="thumbs/thumb-event-sonic_midnight-2026.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2026</td>
-	<td></td>
+	<td><img src="thumbs/thumb-other-haishinbu.png" width="120px"><p>JAWS-UG 配信部</p></td>
+	<td><img src="thumbs/thumb-event-sonic_midnight-2020.png" width="120px"><p>JAWS SONIC & Midnight JAWS 2020</p></td>
+	<td><img src="thumbs/thumb-event-sonic_midnight-2026.png" width="120px"><p>JAWS SONIC & Midnight JAWS 2026</p></td>
+	<td>&nbsp;</td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-event-jaws-days-2019.png" width="120px"><br />JAWS DAYS 2019 - <br />満漢全席</td>
-	<td><img src="thumbs/thumb-event-jaws-days-2020.png" width="120px"><br />JAWS DAYS 2020 - <br />さめのおんがえし</td>
-	<td><img src="thumbs/thumb-event-jaws-days-2021.png" width="120px"><br />JAWS DAYS 2021 - <br />re:Connect</td>
-	<td><img src="thumbs/thumb-event-jaws-days-2022.png" width="120px"><br />JAWS DAYS 2022 - Satellites</td>
+	<td><img src="thumbs/thumb-event-jaws-days-2019.png" width="120px"><p>JAWS DAYS 2019 - 満漢全席</p></td>
+	<td><img src="thumbs/thumb-event-jaws-days-2020.png" width="120px"><p>JAWS DAYS 2020 - さめのおんがえし</p></td>
+	<td><img src="thumbs/thumb-event-jaws-days-2021.png" width="120px"><p>JAWS DAYS 2021 - re:Connect</p></td>
+	<td><img src="thumbs/thumb-event-jaws-days-2022.png" width="120px"><p>JAWS DAYS 2022 - Satellites</p></td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-event-jaws-days-2024.png" width="120px"><br />JAWS DAYS 2024 - Leap Beyond</td>
-	<td><img src="thumbs/thumb-event-jaws-days-2025.png" width="120px"><br />JAWS DAYS 2025 - Connecting the dots</td>
-	<td></td>
-	<td></td>
+	<td><img src="thumbs/thumb-event-jaws-days-2024.png" width="120px"><p>JAWS DAYS 2024 - Leap Beyond</p></td>
+	<td><img src="thumbs/thumb-event-jaws-days-2025.png" width="120px"><p>JAWS DAYS 2025 - Connecting the dots</p></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-event-jaws-festa-2025.png" width="120px"><br />JAWS FESTA 2025 in 金沢</td>
-	<td><img src="thumbs/thumb-event-jaws-festa-2026.png" width="120px"><br />JAWS FESTA 2026 AKITA</td>
-	<td></td>
-	<td></td>
+	<td><img src="thumbs/thumb-event-jaws-festa-2025.png" width="120px"><p>JAWS FESTA 2025 in 金沢</p></td>
+	<td><img src="thumbs/thumb-event-jaws-festa-2026.png" width="120px"><p>JAWS FESTA 2026 AKITA</p></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-event-summertfireworkshop-kanazawa.png" width="120px"><br />Summer FIREWORKShop</td>
-	<td><img src="thumbs/thumb-event-summertfireworkshop-chiba.png" width="120px"><br />Summer FIREWORKShop</td>
-	<td><img src="thumbs/thumb-event-summertfireworkshop-beginner.png" width="120px"><br />Summer FIREWORKShop</td>
-	<td></td>
+	<td><img src="thumbs/thumb-event-summertfireworkshop-kanazawa.png" width="120px"><p>Summer FIREWORKShop</p></td>
+	<td><img src="thumbs/thumb-event-summertfireworkshop-chiba.png" width="120px"><p>Summer FIREWORKShop</p></td>
+	<td><img src="thumbs/thumb-event-summertfireworkshop-beginner.png" width="120px"><p>Summer FIREWORKShop</p></td>
+	<td>&nbsp;</td>
 </tr>
 </table>
