@@ -67,12 +67,13 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-kyoto.png" width="120px"><p>京都支部 / kyoto</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-shimane.png" width="120px"><p>島根支部 / shimane</p></td>
 	<td><img src="thumbs/thumb-area-okayama.png" width="120px"><p>岡山支部 / okayama</p></td>
 	<td><img src="thumbs/thumb-area-hiroshima.png" width="120px"><p>広島支部 / hiroshima</p></td>
 	<td><img src="thumbs/thumb-area-fukuoka.png" width="120px"><p>福岡支部 / fukuoka</p></td>
-	<td><img src="thumbs/thumb-area-nagasaki.png" width="120px"><p>長崎支部 / nagasaki</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-nagasaki.png" width="120px"><p>長崎支部 / nagasaki</p></td>
 	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / saga</p></td>
 	<td><img src="thumbs/thumb-area-kumamoto.png" width="120px"><p>熊本支部 / kumamoto</p></td>
 	<td><img src="thumbs/thumb-area-oita.png" width="120px"><p>大分支部 / oita</p></td>
