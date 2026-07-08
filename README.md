@@ -67,16 +67,22 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-kyoto.png" width="120px"><p>京都支部 / kyoto</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-shimane.png" width="120px"><p>島根支部 / shimane</p></td>
 	<td><img src="thumbs/thumb-area-okayama.png" width="120px"><p>岡山支部 / okayama</p></td>
 	<td><img src="thumbs/thumb-area-hiroshima.png" width="120px"><p>広島支部 / hiroshima</p></td>
 	<td><img src="thumbs/thumb-area-fukuoka.png" width="120px"><p>福岡支部 / fukuoka</p></td>
-	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / saga</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-nagasaki.png" width="120px"><p>長崎支部 / nagasaki</p></td>
+	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / saga</p></td>
 	<td><img src="thumbs/thumb-area-kumamoto.png" width="120px"><p>熊本支部 / kumamoto</p></td>
 	<td><img src="thumbs/thumb-area-oita.png" width="120px"><p>大分支部 / oita</p></td>
+</tr>
+<tr>
 	<td><img src="thumbs/thumb-area-kagoshima.png" width="120px"><p>鹿児島支部 / kagoshima</p></td>
 	<td><img src="thumbs/thumb-area-okinawa.png" width="120px"><p>沖縄支部 / okinawa</p></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 </tr>
 </table>
 
@@ -127,6 +133,8 @@ JAWS-UG各支部のロゴです。
 <tr>
 	<td><img src="thumbs/thumb-other-haishinbu.png" width="120px"><br />JAWS-UG 配信部</td>
 	<td><img src="thumbs/thumb-event-security-jaws-iam-special.png" width="120px"><br />Security-JAWS<br /> & <br />IAM Special</td>
+	<td><img src="thumbs/thumb-event-security-jaws-days-2026.png" width="120px"><br />Security-JAWS DAYS</td>
+	<td></td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-event-sonic_midnight-2020.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
