@@ -97,15 +97,15 @@ JAWS-UG各支部のロゴです。
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-professional-iot.png" width="120px"><br />IoT 専門支部</td>
-	<td><img src="thumbs/thumb-professional-morning.png" width="120px"><br />朝会</td>
 	<td><img src="thumbs/thumb-professional-gametech.png" width="120px"><br />GameTech 専門支部</td>
 	<td><img src="thumbs/thumb-professional-media.png" width="120px"><br />Media-JAWS</td>
+	<td><img src="thumbs/thumb-professional-E-JAWS.png" width="120px"><br />E-JAWS</td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-professional-E-JAWS.png" width="120px"><br />E-JAWS</td>
 	<td><img src="thumbs/thumb-professional-gov-jaws.png" width="120px"><br />Gov-JAWS</td>
 	<td><img src="thumbs/thumb-professional-education-jaws.png" width="120px"><br />Education-JAWS</td>
 	<td><img src="thumbs/thumb-professional-kansaigirls.png" width="120px"><br />関西女子</td>
+  <td><img src="thumbs/thumb-professional-morning.png" width="120px"><br />朝会</td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-professional-cloud-girls.png" width="120px"><br />クラウド女子会</td>
@@ -117,39 +117,38 @@ JAWS-UG各支部のロゴです。
   <td><img src="thumbs/thumb-professional-cdk.png" width="120px"><br />CDK支部</td>
   <td><img src="thumbs/thumb-professional-ops-jaws.png" width="120px"><br />OPS-JAWS</td>
   <td><img src="thumbs/thumb-professional-container.png" width="120px"><br />コンテナ支部</td>
-  <td><img src="thumbs/thumb-professional-morning.png" width="120px"><br />朝会</td>
-</tr>
-<tr>
   <td><img src="thumbs/thumb-professional-storage-jaws.png" width="120px"><br />Storage-JAWS</td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr>
-
 </table>
 
 ## イベント・その他
 <table style="text-align:center; line-height:1.3; font-size:0.9; color:#444;">
 <tr>
-	<td><img src="thumbs/thumb-other-haishinbu.png" width="120px"><br />JAWS-UG 配信部</td>
 	<td><img src="thumbs/thumb-event-security-jaws-iam-special.png" width="120px"><br />Security-JAWS<br /> & <br />IAM Special</td>
 	<td><img src="thumbs/thumb-event-security-jaws-days-2026.png" width="120px"><br />Security-JAWS DAYS</td>
 	<td></td>
+	<td></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-other-haishinbu.png" width="120px"><br />JAWS-UG 配信部</td>
 	<td><img src="thumbs/thumb-event-sonic_midnight-2020.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
+	<td><img src="thumbs/thumb-event-sonic_midnight-2026.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2026</td>
+	<td></td>
+</tr>
+<tr>
 	<td><img src="thumbs/thumb-event-jaws-days-2019.png" width="120px"><br />JAWS DAYS 2019 - <br />満漢全席</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2020.png" width="120px"><br />JAWS DAYS 2020 - <br />さめのおんがえし</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2021.png" width="120px"><br />JAWS DAYS 2021 - <br />re:Connect</td>
+	<td><img src="thumbs/thumb-event-jaws-days-2022.png" width="120px"><br />JAWS DAYS 2022 - Satellites</td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-event-jaws-days-2022.png" width="120px"><br />JAWS DAYS 2021 - Satellites</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2024.png" width="120px"><br />JAWS DAYS 2024 - Leap Beyond</td>
 	<td><img src="thumbs/thumb-event-jaws-days-2025.png" width="120px"><br />JAWS DAYS 2025 - Connecting the dots</td>
-	<td><img src="thumbs/thumb-event-jaws-festa-2025.png" width="120px"><br />JAWS FESTA 2025 in 金沢</td>
+	<td></td>
+	<td></td>
 </tr>
 <tr>
-	<td><img src="thumbs/thumb-event-sonic_midnight-2026.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2026</td>
+	<td><img src="thumbs/thumb-event-jaws-festa-2025.png" width="120px"><br />JAWS FESTA 2025 in 金沢</td>
 	<td><img src="thumbs/thumb-event-jaws-festa-2026.png" width="120px"><br />JAWS FESTA 2026 AKITA</td>
 	<td></td>
 	<td></td>
