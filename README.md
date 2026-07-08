@@ -133,6 +133,8 @@ JAWS-UG各支部のロゴです。
 <tr>
 	<td><img src="thumbs/thumb-other-haishinbu.png" width="120px"><br />JAWS-UG 配信部</td>
 	<td><img src="thumbs/thumb-event-security-jaws-iam-special.png" width="120px"><br />Security-JAWS<br /> & <br />IAM Special</td>
+	<td><img src="thumbs/thumb-event-security-jaws-days-2026.png" width="120px"><br />Security-JAWS DAYS</td>
+	<td></td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-event-sonic_midnight-2020.png" width="120px"><br />JAWS SONIC<br /> & <br />Midnight JAWS<br /> 2020</td>
