@@ -121,7 +121,7 @@ JAWS-UG各支部のロゴです。
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-professional-ai-dlc.png" width="120px"><p>AI-DLC</p></td>
-	<td>&nbsp;</td>
+	<td><img src="thumbs/thumb-professional-sre.png" width="120px"><p>SRE支部</p></td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 </tr>
