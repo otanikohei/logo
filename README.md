@@ -55,30 +55,31 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-yamanashi.png" width="120px"><p>山梨支部 / yamanashi</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-joetsumyoko.png" width="120px"><p>上越妙高支部 / joetsumyoko</p></td>
 	<td><img src="thumbs/thumb-area-nagano.png" width="120px"><p>長野支部 / nagano</p></td>
 	<td><img src="thumbs/thumb-area-shizuoka.png" width="120px"><p>静岡支部 / shizuoka</p></td>
 	<td><img src="thumbs/thumb-area-hamamatsu.png" width="120px"><p>浜松支部 / hamamatsu</p></td>
-	<td><img src="thumbs/thumb-area-nagoya.png" width="120px"><p>JAWS-UG 名古屋 / nagoya</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-nagoya.png" width="120px"><p>JAWS-UG 名古屋 / nagoya</p></td>
 	<td><img src="thumbs/thumb-area-tokaido.png" width="120px"><p>JAWS-UG 東海道 / tokaido</p></td>
 	<td><img src="thumbs/thumb-area-osaka.png" width="120px"><p>大阪支部 / osaka</p></td>
 	<td><img src="thumbs/thumb-area-kobe.png" width="120px"><p>神戸支部 / kobe</p></td>
-	<td><img src="thumbs/thumb-area-kyoto.png" width="120px"><p>京都支部 / kyoto</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-kyoto.png" width="120px"><p>京都支部 / kyoto</p></td>
 	<td><img src="thumbs/thumb-area-shimane.png" width="120px"><p>島根支部 / shimane</p></td>
 	<td><img src="thumbs/thumb-area-okayama.png" width="120px"><p>岡山支部 / okayama</p></td>
 	<td><img src="thumbs/thumb-area-hiroshima.png" width="120px"><p>広島支部 / hiroshima</p></td>
-	<td><img src="thumbs/thumb-area-fukuoka.png" width="120px"><p>福岡支部 / fukuoka</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-fukuoka.png" width="120px"><p>福岡支部 / fukuoka</p></td>
 	<td><img src="thumbs/thumb-area-nagasaki.png" width="120px"><p>長崎支部 / nagasaki</p></td>
 	<td><img src="thumbs/thumb-area-saga.png" width="120px"><p>佐賀支部 / saga</p></td>
 	<td><img src="thumbs/thumb-area-kumamoto.png" width="120px"><p>熊本支部 / kumamoto</p></td>
-	<td><img src="thumbs/thumb-area-oita.png" width="120px"><p>大分支部 / oita</p></td>
 </tr>
 <tr>
+	<td><img src="thumbs/thumb-area-oita.png" width="120px"><p>大分支部 / oita</p></td>
 	<td><img src="thumbs/thumb-area-kagoshima.png" width="120px"><p>鹿児島支部 / kagoshima</p></td>
 	<td><img src="thumbs/thumb-area-okinawa.png" width="120px"><p>沖縄支部 / okinawa</p></td>
 	<td>&nbsp;</td>
@@ -104,7 +105,7 @@ JAWS-UG各支部のロゴです。
 <tr>
 	<td><img src="thumbs/thumb-professional-gov-jaws.png" width="120px"><p>Gov-JAWS</p></td>
 	<td><img src="thumbs/thumb-professional-education-jaws.png" width="120px"><p>Education-JAWS</p></td>
-	<td><img src="thumbs/thumb-professional-kansaigirls.png" width="120px"><p>関西女子</p></td>
+	<td><img src="thumbs/thumb-professional-deandi.png" width="120px"><p>DE&I</p></td>
 	<td><img src="thumbs/thumb-professional-morning.png" width="120px"><p>朝会</p></td>
 </tr>
 <tr>
@@ -116,14 +117,14 @@ JAWS-UG各支部のロゴです。
 <tr>
 	<td><img src="thumbs/thumb-professional-cdk.png" width="120px"><p>CDK支部</p></td>
 	<td><img src="thumbs/thumb-professional-ops-jaws.png" width="120px"><p>OPS-JAWS</p></td>
-	<td><img src="thumbs/thumb-professional-container.png" width="120px"><p>コンテナ支部</p></td>
+	<td><img src="thumbs/thumb-professional-container.png" width="120px"><p>コンテナ専門支部</p></td>
 	<td><img src="thumbs/thumb-professional-storage-jaws.png" width="120px"><p>Storage-JAWS</p></td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-professional-ai-dlc.png" width="120px"><p>AI-DLC</p></td>
 	<td><img src="thumbs/thumb-professional-sre.png" width="120px"><p>SRE支部</p></td>
-	<td>&nbsp;</td>
-	<td>&nbsp;</td>
+	<td><img src="thumbs/thumb-professional-architecture.png" width="120px"><p>アーキテクチャ専門支部</p></td>
+	<td><img src="thumbs/thumb-professional-bigdata.png" width="120px"><p>ビッグデータ支部</p></td>
 </tr>
 </table>
 
