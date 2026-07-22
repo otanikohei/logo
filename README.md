@@ -83,7 +83,6 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-area-kagoshima.png" width="120px"><p>鹿児島支部 / kagoshima</p></td>
 	<td><img src="thumbs/thumb-area-okinawa.png" width="120px"><p>沖縄支部 / okinawa</p></td>
 	<td>&nbsp;</td>
-	<td>&nbsp;</td>
 </tr>
 </table>
 
