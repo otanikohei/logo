@@ -125,6 +125,12 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-professional-architecture.png" width="120px"><p>アーキテクチャ専門支部</p></td>
 	<td><img src="thumbs/thumb-professional-bigdata.png" width="120px"><p>ビッグデータ支部</p></td>
 </tr>
+<tr>
+	<td><img src="thumbs/thumb-professional-systems-admin.png" width="120px"><p>情シス支部</p></td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
 </table>
 
 ## イベント・その他
