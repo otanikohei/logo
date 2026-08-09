@@ -127,7 +127,7 @@ JAWS-UG各支部のロゴです。
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-professional-systems-admin.png" width="120px"><p>情シス支部</p></td>
-	<td></td>
+	<td><img src="thumbs/thumb-professional-aiml.png" width="120px"><p>AI/ML支部</p></td>
 	<td></td>
 	<td></td>
 </tr>
